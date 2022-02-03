@@ -54,6 +54,10 @@ As shown in fig , the pair of pedestrians whose distance is below the minimum ac
 ![image](https://user-images.githubusercontent.com/98182482/152291294-aa550818-c7ae-4b0c-994b-c2c140106b32.png)
 
 
+# Tools used and input files
+
+I have attached the input video files and I have used Matlab v.2021b for implementing this project.
+
 
 
 
